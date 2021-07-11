@@ -1,2 +1,2 @@
 # rust-practice
-whit web server
+> Build something using rust.
